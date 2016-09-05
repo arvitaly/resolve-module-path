@@ -1,0 +1,30 @@
+{
+  "name": "resolve-module-path",
+  "version": "0.0.2",
+  "description": "Lib for resolving path for requiring module with differents environments",
+  "main": "index.js",
+  "scripts": {
+    "test": "istanbul cover node_modules/jasmine/bin/jasmine.js",
+    "watch:test": "nodemon --exec \"npm run test\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arvitaly/resolve-module-path.git"
+  },
+  "keywords": [
+    "resolve",
+    "module",
+    "require"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arvitaly/resolve-module-path/issues"
+  },
+  "homepage": "https://github.com/arvitaly/resolve-module-path#readme",
+  "devDependencies": {
+    "coveralls": "^2.11.12",
+    "istanbul": "^0.4.5",
+    "jasmine": "^2.4.1"
+  }
+}
