@@ -24,5 +24,7 @@ Look more here https://github.com/arvitaly/resolve-module-path/blob/master/spec
 # Options
 
 basePath: if base path not setted, lib take path from caller (by stack)
+
 npmPath: if npm path not setted, lib take (base path or process.cwd()) + "/node_modules"
+
 stackDepth: you can also use this library in other library, which use resolve, look tests for example
