@@ -4,5 +4,8 @@ interface Opts {
     basePath: string;
     npmPath: string;
 }
-declare function resolve(modulePath: string, opts: Opts): string;
-export = resolve;
+declare namespace ResolveModulePath {
+
+}
+declare function ResolveModulePath(modulePath: string, opts: Opts): string;
+export = ResolveModulePath;
