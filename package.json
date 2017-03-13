@@ -26,6 +26,6 @@
   "devDependencies": {
     "coveralls": "^2.11.12",
     "istanbul": "^0.4.5",
-    "jasmine": "2.4.1"
+    "jasmine": "2.5.3"
   }
 }
