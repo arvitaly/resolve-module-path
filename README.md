@@ -1,5 +1,7 @@
 # resolve-module-path
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/arvitaly/resolve-module-path.svg)](https://greenkeeper.io/)
+
 [![npm version](https://badge.fury.io/js/resolve-module-path.svg)](https://badge.fury.io/js/resolve-module-path)
 [![Build Status](https://travis-ci.org/arvitaly/resolve-module-path.svg?branch=master)](https://travis-ci.org/arvitaly/resolve-module-path)
 [![Coverage Status](https://coveralls.io/repos/github/arvitaly/resolve-module-path/badge.svg?branch=master)](https://coveralls.io/github/arvitaly/resolve-module-path?branch=master)
